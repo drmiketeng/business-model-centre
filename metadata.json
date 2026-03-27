@@ -1,0 +1,7 @@
+{
+  "name": "Remix: SME Business Model Advisor",
+  "description": "An AI-driven advisor to help SMEs build a business model statement, perform in-depth analysis using seven business toolkits, and generate a comprehensive report with actionable recommendations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
